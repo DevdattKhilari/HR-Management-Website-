@@ -74,7 +74,7 @@ This repository only contains the **SaaS-style landing website**, with the goal 
 
 ## 🧱 Project Architecture
 
-![diagram-export-4-5-2025-4_40_01-PM](https://github.com/user-attachments/assets/96a5dcd1-f8be-4f71-897e-8df05efc2cb5)
+![Architecture ](https://github.com/user-attachments/assets/00497b4b-4ecf-459d-8c51-bb47ccf5bc54)
 
 
 
