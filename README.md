@@ -79,11 +79,13 @@ This repository only contains the **SaaS-style landing website**, with the goal 
 
 
 ## 🧱 Project Sreenshots
-![WhatsApp Image 2025-04-06 at 8 38 49 AM](https://github.com/user-attachments/assets/bb142a1c-2eff-4213-86fd-37954033dc98)
+![WhatsApp Image 2025-04-06 at 8 38 51 AM (1)](https://github.com/user-attachments/assets/c39f41b1-7951-45ce-9b3c-36a6569382f6)
 
-![WhatsApp Image 2025-04-06 at 8 38 50 AM](https://github.com/user-attachments/assets/e687cacd-55e9-41e2-9941-c29868648ebb)
+![WhatsApp Image 2025-04-06 at 8 38 51 AM](https://github.com/user-attachments/assets/e64f8553-384d-4ed3-a2fa-dcf949853c45)
 
-![WhatsApp Image 2025-04-06 at 8 38 51 AM](https://github.com/user-attachments/assets/ab76d8fa-5a0e-4f36-a81a-0c11b2f653d6)
+![WhatsApp Image 2025-04-06 at 8 38 50 AM](https://github.com/user-attachments/assets/4e42d438-949d-44ee-b7b7-af807226d18a)
+
+
 
 
 
