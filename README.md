@@ -77,6 +77,9 @@ This repository only contains the **SaaS-style landing website**, with the goal 
 ![Architecture ](https://github.com/user-attachments/assets/00497b4b-4ecf-459d-8c51-bb47ccf5bc54)
 
 
+---
+
+
 
 ## 🧱 Project Sreenshots
 ![WhatsApp Image 2025-04-06 at 8 38 51 AM (1)](https://github.com/user-attachments/assets/c39f41b1-7951-45ce-9b3c-36a6569382f6)
